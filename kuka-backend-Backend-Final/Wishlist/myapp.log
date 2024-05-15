@@ -1,0 +1,14 @@
+2023-09-15 10:17:30.204  WARN [wishlistms,,] 27176 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=10h38m53s517ms73µs700ns).
+2023-09-15 10:19:34.297  INFO [wishlistms,,] 27176 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2023-09-15 10:24:34.169  INFO [wishlistms,,] 27176 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2023-09-15 10:29:34.085  INFO [wishlistms,,] 27176 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2023-09-15 10:34:34.111  INFO [wishlistms,,] 27176 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2023-09-15 10:35:55.836  WARN [wishlistms,,] 27176 --- [HikariPool-1 housekeeper] com.zaxxer.hikari.pool.HikariPool        : HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m25s609ms179µs100ns).
+2023-09-15 10:40:29.725  INFO [wishlistms,,] 27176 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2023-09-15 10:45:29.752  INFO [wishlistms,,] 27176 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2023-09-15 10:50:29.771  INFO [wishlistms,,] 27176 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2023-09-15 10:55:29.771  INFO [wishlistms,,] 27176 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2023-09-15 11:00:29.780  INFO [wishlistms,,] 27176 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2023-09-15 11:05:29.801  INFO [wishlistms,,] 27176 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2023-09-15 11:10:29.816  INFO [wishlistms,,] 27176 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
+2023-09-15 11:15:29.836  INFO [wishlistms,,] 27176 --- [AsyncResolver-bootstrap-executor-0] c.n.d.s.r.aws.ConfigClusterResolver      : Resolving eureka endpoints via configuration
